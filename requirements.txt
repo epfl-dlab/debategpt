@@ -1,0 +1,18 @@
+# Python version 3.10.13
+fsspec==2025.2.0
+huggingface_hub==0.28.1
+numpy==1.25.2
+openai==1.12.0
+pandas==2.0.3
+pyyaml==6.0.1
+seaborn==0.13.0
+statsmodels==0.14.1
+streamlit==1.27.2
+streamlit-server-state==0.17.1
+textstat==0.7.3
+
+# Inherited by tendimensions
+nltk==3.8.1
+torch==2.2.0
+gensim==4.3.2
+scikit-learn==1.4.0

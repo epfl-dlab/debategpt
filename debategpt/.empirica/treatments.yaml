@@ -1,0 +1,71 @@
+factors:
+  - name: playerCount
+    desc: playerCount determines the number of Players are in a Game.
+    values:
+      - value: 1
+      - value: 2
+  - name: personalInfo
+    desc: personalInfo is a boolean indicating whether the opponent will have access to the participants' anonymized sociodemographic information
+    values:
+      - value: 1
+      - value: 0
+  - name: opponentKind
+    desc: "opponentKind indicates the type of opponent: either another human or an AI"
+    values:
+      - value: human
+      - value: ai
+  - name: llm
+    desc: "llm indicates the name of the AI model (LLM) to be queried"
+    values:
+      - values: mock
+      - values: chatgpt
+      - values: gpt4
+      - values: mixtral
+treatments:
+  - name: Human-Human
+    desc: Two-player game, where the opponent is also human.
+    factors:
+      opponentKind: human
+      playerCount: 2
+      personalInfo: 0
+  - name: Human-Human, personalized
+    desc: Two-player game, where the opponent is also human and has access to the participant's sociodemographic information.
+    factors:
+      opponentKind: human
+      playerCount: 2
+      personalInfo: 1
+  - name: Human-AI, mock
+    desc: Single-player game, where the participant is faced with GPT-4
+    factors:
+      opponentKind: ai
+      playerCount: 1
+      llm: mock
+      personalInfo: 0
+  - name: Human-AI
+    desc: Single-player game, where the participant is faced with GPT-4
+    factors:
+      opponentKind: ai
+      playerCount: 1
+      llm: gpt4
+      personalInfo: 0
+  - name: Human-AI, personalized
+    desc: Single-player game, where the participant is faced with GPT-4 with additional info to the participant's sociodemographic information.
+    factors:
+      opponentKind: ai
+      playerCount: 1
+      llm: gpt4
+      personalInfo: 1
+  - name: Human-AI, mixtral
+    desc: Single-player game, where the participant is faced with Mixtral
+    factors:
+      opponentKind: ai
+      playerCount: 1
+      llm: mixtral
+      personalInfo: 0
+  - name: Human-AI, personalized, mixtral
+    desc: Single-player game, where the participant is faced with Mixtral with additional info to the participant's sociodemographic information.
+    factors:
+      opponentKind: ai
+      playerCount: 1
+      llm: mixtral
+      personalInfo: 1

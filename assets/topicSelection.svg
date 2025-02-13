@@ -1,0 +1,2803 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="213.66701mm"
+   height="86.402mm"
+   version="1.2"
+   id="svg152"
+   sodipodi:docname="topicSelection.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:export-filename="topicSelection.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ns1="http://www.iki.fi/pav/software/textext/">
+  <sodipodi:namedview
+     id="namedview152"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1383333"
+     inkscape:cx="433.08932"
+     inkscape:cy="142.31333"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="1529"
+     inkscape:window-y="-6"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg152" />
+  <desc
+     id="desc1">Created by HiQPdf</desc>
+  <defs
+     id="defs1">
+    <g
+       id="id-b2d4cee5-638c-4227-bdd4-0f8257d61bfe-0"
+       style="fill:#784421;stroke-width:0">
+      <g
+         id="id-ac30ad1d-458e-4994-a8c9-480a3adbfb15-0"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 3.296875,2.390625 c 0,-0.03125 0,-0.046875 -0.171875,-0.21875 C 1.890625,0.921875 1.5625,-0.96875 1.5625,-2.5 c 0,-1.734375 0.375,-3.46875 1.609375,-4.703125 0.125,-0.125 0.125,-0.140625 0.125,-0.171875 0,-0.078125 -0.03125,-0.109375 -0.09375,-0.109375 -0.109375,0 -1,0.6875 -1.59375,1.953125 -0.5,1.09375 -0.625,2.203125 -0.625,3.03125 0,0.78125 0.109375,1.984375 0.65625,3.125 C 2.25,1.84375 3.09375,2.5 3.203125,2.5 c 0.0625,0 0.09375,-0.03125 0.09375,-0.109375 z m 0,0"
+           id="id-1aca2dae-f4ae-4e50-8381-46ea402b1537-5"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+      <g
+         id="id-5af2f5f8-776a-4743-b332-de2d06fe2fef-8"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 2.875,-2.5 c 0,-0.765625 -0.109375,-1.96875 -0.65625,-3.109375 -0.59375,-1.21875 -1.453125,-1.875 -1.546875,-1.875 -0.0625,0 -0.109375,0.046875 -0.109375,0.109375 0,0.03125 0,0.046875 0.1875,0.234375 0.984375,0.984375 1.546875,2.5625 1.546875,4.640625 0,1.71875 -0.359375,3.46875 -1.59375,4.71875 C 0.5625,2.34375 0.5625,2.359375 0.5625,2.390625 0.5625,2.453125 0.609375,2.5 0.671875,2.5 0.765625,2.5 1.671875,1.8125 2.25,0.546875 2.765625,-0.546875 2.875,-1.65625 2.875,-2.5 Z m 0,0"
+           id="id-ef8df763-7214-4824-9761-8eff903a10b4-0"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+      <g
+         id="id-716f3ccb-266f-41c0-8728-3bc00a321f45-3"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="M 1.78125,-1.140625 C 1.390625,-0.484375 1,-0.34375 0.5625,-0.3125 0.4375,-0.296875 0.34375,-0.296875 0.34375,-0.109375 0.34375,-0.046875 0.40625,0 0.484375,0 0.75,0 1.0625,-0.03125 1.328125,-0.03125 c 0.34375,0 0.6875,0.03125 1,0.03125 0.0625,0 0.1875,0 0.1875,-0.1875 0,-0.109375 -0.078125,-0.125 -0.15625,-0.125 -0.21875,-0.015625 -0.46875,-0.09375 -0.46875,-0.34375 0,-0.125 0.0625,-0.234375 0.140625,-0.375 l 0.765625,-1.265625 h 2.5 c 0.015625,0.203125 0.15625,1.5625 0.15625,1.65625 0,0.296875 -0.515625,0.328125 -0.71875,0.328125 C 4.59375,-0.3125 4.5,-0.3125 4.5,-0.109375 4.5,0 4.609375,0 4.640625,0 5.046875,0 5.46875,-0.03125 5.875,-0.03125 6.125,-0.03125 6.765625,0 7.015625,0 7.0625,0 7.1875,0 7.1875,-0.203125 7.1875,-0.3125 7.09375,-0.3125 6.953125,-0.3125 6.34375,-0.3125 6.34375,-0.375 6.3125,-0.671875 l -0.609375,-6.21875 c -0.015625,-0.203125 -0.015625,-0.25 -0.1875,-0.25 -0.15625,0 -0.203125,0.078125 -0.265625,0.171875 z M 2.984375,-2.609375 4.9375,-5.90625 5.265625,-2.609375 Z m 0,0"
+           id="id-1eed2352-1fd2-45e9-a228-e30a88ab0ce8-2"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+    <g
+       id="id-b2d4cee5-638c-4227-bdd4-0f8257d61bfe-1"
+       style="fill:#784421;stroke-width:0">
+      <g
+         id="id-ac30ad1d-458e-4994-a8c9-480a3adbfb15-8"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 3.296875,2.390625 c 0,-0.03125 0,-0.046875 -0.171875,-0.21875 C 1.890625,0.921875 1.5625,-0.96875 1.5625,-2.5 c 0,-1.734375 0.375,-3.46875 1.609375,-4.703125 0.125,-0.125 0.125,-0.140625 0.125,-0.171875 0,-0.078125 -0.03125,-0.109375 -0.09375,-0.109375 -0.109375,0 -1,0.6875 -1.59375,1.953125 -0.5,1.09375 -0.625,2.203125 -0.625,3.03125 0,0.78125 0.109375,1.984375 0.65625,3.125 C 2.25,1.84375 3.09375,2.5 3.203125,2.5 c 0.0625,0 0.09375,-0.03125 0.09375,-0.109375 z m 0,0"
+           id="id-1aca2dae-f4ae-4e50-8381-46ea402b1537-9"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+      <g
+         id="id-5af2f5f8-776a-4743-b332-de2d06fe2fef-4"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 2.875,-2.5 c 0,-0.765625 -0.109375,-1.96875 -0.65625,-3.109375 -0.59375,-1.21875 -1.453125,-1.875 -1.546875,-1.875 -0.0625,0 -0.109375,0.046875 -0.109375,0.109375 0,0.03125 0,0.046875 0.1875,0.234375 0.984375,0.984375 1.546875,2.5625 1.546875,4.640625 0,1.71875 -0.359375,3.46875 -1.59375,4.71875 C 0.5625,2.34375 0.5625,2.359375 0.5625,2.390625 0.5625,2.453125 0.609375,2.5 0.671875,2.5 0.765625,2.5 1.671875,1.8125 2.25,0.546875 2.765625,-0.546875 2.875,-1.65625 2.875,-2.5 Z m 0,0"
+           id="id-ef8df763-7214-4824-9761-8eff903a10b4-7"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+      <g
+         id="id-716f3ccb-266f-41c0-8728-3bc00a321f45-9"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="M 1.78125,-1.140625 C 1.390625,-0.484375 1,-0.34375 0.5625,-0.3125 0.4375,-0.296875 0.34375,-0.296875 0.34375,-0.109375 0.34375,-0.046875 0.40625,0 0.484375,0 0.75,0 1.0625,-0.03125 1.328125,-0.03125 c 0.34375,0 0.6875,0.03125 1,0.03125 0.0625,0 0.1875,0 0.1875,-0.1875 0,-0.109375 -0.078125,-0.125 -0.15625,-0.125 -0.21875,-0.015625 -0.46875,-0.09375 -0.46875,-0.34375 0,-0.125 0.0625,-0.234375 0.140625,-0.375 l 0.765625,-1.265625 h 2.5 c 0.015625,0.203125 0.15625,1.5625 0.15625,1.65625 0,0.296875 -0.515625,0.328125 -0.71875,0.328125 C 4.59375,-0.3125 4.5,-0.3125 4.5,-0.109375 4.5,0 4.609375,0 4.640625,0 5.046875,0 5.46875,-0.03125 5.875,-0.03125 6.125,-0.03125 6.765625,0 7.015625,0 7.0625,0 7.1875,0 7.1875,-0.203125 7.1875,-0.3125 7.09375,-0.3125 6.953125,-0.3125 6.34375,-0.3125 6.34375,-0.375 6.3125,-0.671875 l -0.609375,-6.21875 c -0.015625,-0.203125 -0.015625,-0.25 -0.1875,-0.25 -0.15625,0 -0.203125,0.078125 -0.265625,0.171875 z M 2.984375,-2.609375 4.9375,-5.90625 5.265625,-2.609375 Z m 0,0"
+           id="id-1eed2352-1fd2-45e9-a228-e30a88ab0ce8-4"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+  </defs>
+  <g
+     id="g152"
+     transform="translate(4,4)">
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g1"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g2"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g3"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="#d2d6dc"
+       fill-opacity="1"
+       stroke="none"
+       id="g4"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 205,32 h 790 c 2.761,0 5,2.2386 5,5 v 309 c 0,2.761 -2.239,5 -5,5 H 205 c -2.761,0 -5,-2.239 -5,-5 V 37 c 0,-2.7614 2.239,-5 5,-5 m 1,2 h 788 c 2.209,0 4,1.7909 4,4 v 307 c 0,2.209 -1.791,4 -4,4 H 206 c -2.209,0 -4,-1.791 -4,-4 V 38 c 0,-2.2091 1.791,-4 4,-4"
+         id="path3" />
+    </g>
+    <g
+       fill="#f7fafc"
+       fill-opacity="1"
+       stroke="none"
+       id="g5"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 205,33 h 790 c 2.209,0 4,1.7909 4,4 v 309 c 0,2.209 -1.791,4 -4,4 H 205 c -2.209,0 -4,-1.791 -4,-4 V 37 c 0,-2.2091 1.791,-4 4,-4"
+         id="path4" />
+    </g>
+    <g
+       fill="#5e8de0"
+       fill-opacity="1"
+       stroke="#5e8de0"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g6"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#5e8de0"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="473.5"
+         y="72"
+         font-family="Arial"
+         font-size="20px"
+         font-weight="700"
+         font-style="normal"
+         id="text5">Should Abortion Be Legal?</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g7"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="242"
+         y="119"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="700"
+         font-style="normal"
+         id="text6">How much do you agree?</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g8"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="232.5"
+         y="163"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text7">Strongly disagree</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g9"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="357.578"
+         y="144"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text8"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g10"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="410.5"
+         y="163"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text9">Disagree</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g11"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="510.15601"
+         y="144"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text10"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g12"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="567.5"
+         y="163"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text11">Neutral</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g13"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="662.73401"
+         y="144"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text12"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g14"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="724"
+         y="163"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text13">Agree</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g15"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="815.31201"
+         y="144"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text14"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g16"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="851"
+         y="163"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text15">Strongly agree</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g17"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="242"
+         y="203"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="700"
+         font-style="normal"
+         id="text16">How much are you informed about this topic?</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g18"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="236.5"
+         y="247"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text17">Very uninformed</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g19"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="357.578"
+         y="228"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text18"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g20"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="372"
+         y="247"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text19">Somewhat uninformed</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g21"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="510.15601"
+         y="228"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text20"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g22"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="567.5"
+         y="247"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text21">Neutral</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g23"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="662.73401"
+         y="228"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text22"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g24"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="684"
+         y="247"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text23">Somewhat informed</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g25"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="815.31201"
+         y="228"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text24"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g26"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="853.5"
+         y="247"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text25">Very informed</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g27"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="242"
+         y="287"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="700"
+         font-style="normal"
+         id="text26">How easy would it be to come up with arguments both for and against this proposition?</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g32"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="255.5"
+         y="331"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text31">Very hard</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g33"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="357.578"
+         y="312"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text32"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g34"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="391"
+         y="331"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text33">Somewhat hard</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g35"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="510.15601"
+         y="312"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text34"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g36"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="567.5"
+         y="331"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text35">Neutral</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g37"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="662.73401"
+         y="312"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text36"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g38"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="694.5"
+         y="331"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text37">Somewhat easy</text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g39"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="815.31201"
+         y="312"
+         font-family="Arial"
+         font-size="16px"
+         font-weight="400"
+         font-style="normal"
+         id="text38"> </text>
+    </g>
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       id="g40"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd">
+      <text
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         xml:space="preserve"
+         x="864"
+         y="331"
+         font-family="Arial"
+         font-size="13px"
+         font-weight="400"
+         font-style="normal"
+         id="text39">Very easy</text>
+    </g>
+    <g
+       fill="#efefef"
+       fill-opacity="1"
+       stroke="none"
+       id="g41"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 283,136 h 610 v 4 H 283 v -4"
+         id="path40" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g42"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,101)"
+       id="g43"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline42" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,101)"
+       id="g44"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline43" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,101)"
+       id="g45"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline44" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,101)"
+       id="g46"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline45" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,101)"
+       id="g47"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path46" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g48"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g49"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,101)"
+       id="g50"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline49" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,101)"
+       id="g51"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline50" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,101)"
+       id="g52"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline51" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,101)"
+       id="g53"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline52" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,101)"
+       id="g54"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path53" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g55"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g56"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,101)"
+       id="g57"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline56" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,101)"
+       id="g58"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline57" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,101)"
+       id="g59"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline58" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,101)"
+       id="g60"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline59" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,101)"
+       id="g61"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path60" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g62"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g63"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,101)"
+       id="g64"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline63" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,101)"
+       id="g65"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline64" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,101)"
+       id="g66"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline65" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,101)"
+       id="g67"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline66" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,101)"
+       id="g68"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path67" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g69"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g70"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,101)"
+       id="g71"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline70" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,101)"
+       id="g72"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline71" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,101)"
+       id="g73"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline72" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,101)"
+       id="g74"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline73" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,101)"
+       id="g75"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path74" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g76"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="#efefef"
+       fill-opacity="1"
+       stroke="none"
+       id="g77"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 283,220 h 610 v 4 H 283 v -4"
+         id="path76" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g78"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,185)"
+       id="g79"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline78" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,185)"
+       id="g80"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline79" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,185)"
+       id="g81"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline80" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,185)"
+       id="g82"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline81" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,185)"
+       id="g83"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path82" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g84"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g85"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,185)"
+       id="g86"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline85" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,185)"
+       id="g87"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline86" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,185)"
+       id="g88"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline87" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,185)"
+       id="g89"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline88" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,185)"
+       id="g90"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path89" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g91"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g92"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,185)"
+       id="g93"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline92" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,185)"
+       id="g94"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline93" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,185)"
+       id="g95"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline94" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,185)"
+       id="g96"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline95" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,185)"
+       id="g97"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path96" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g98"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g99"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,185)"
+       id="g100"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline99" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,185)"
+       id="g101"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline100" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,185)"
+       id="g102"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline101" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,185)"
+       id="g103"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline102" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,185)"
+       id="g104"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path103" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g105"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g106"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,185)"
+       id="g107"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline106" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,185)"
+       id="g108"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline107" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,185)"
+       id="g109"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline108" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,185)"
+       id="g110"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline109" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,185)"
+       id="g111"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path110" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g112"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="#efefef"
+       fill-opacity="1"
+       stroke="none"
+       id="g113"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="m 283,304 h 610 v 4 H 283 v -4"
+         id="path112" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g114"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,269)"
+       id="g115"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline114" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,269)"
+       id="g116"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline115" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,269)"
+       id="g117"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline116" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,269)"
+       id="g118"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline117" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(77,269)"
+       id="g119"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path118" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g120"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g121"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,269)"
+       id="g122"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline121" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,269)"
+       id="g123"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline122" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,269)"
+       id="g124"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline123" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,269)"
+       id="g125"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline124" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(230,269)"
+       id="g126"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path125" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g127"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g128"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,269)"
+       id="g129"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline128" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,269)"
+       id="g130"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline129" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,269)"
+       id="g131"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline130" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,269)"
+       id="g132"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline131" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(382,269)"
+       id="g133"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path132" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g134"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g135"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,269)"
+       id="g136"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline135" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,269)"
+       id="g137"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline136" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,269)"
+       id="g138"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline137" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,269)"
+       id="g139"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline138" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(535,269)"
+       id="g140"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path139" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g141"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g142"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="none"
+       stroke="#6a6864"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,269)"
+       id="g143"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="1,9 1,8 0,7 0,4 1,3 1,2 2,1 3,1 4,0 7,0 8,1 9,1 "
+         id="polyline142" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,269)"
+       id="g144"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,8 1,7 1,4 2,3 2,2 3,2 4,1 7,1 8,2 9,2 "
+         id="polyline143" />
+    </g>
+    <g
+       fill="none"
+       stroke="#e9e7e3"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,269)"
+       id="g145"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,9 3,9 4,10 7,10 8,9 9,9 9,8 10,7 10,4 9,3 "
+         id="polyline144" />
+    </g>
+    <g
+       fill="none"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,269)"
+       id="g146"
+       style="fill-rule:evenodd">
+      <polyline
+         fill="none"
+         vector-effect="none"
+         points="2,10 3,10 4,11 7,11 8,10 9,10 10,9 10,8 11,7 11,4 10,3 10,2 "
+         id="polyline145" />
+    </g>
+    <g
+       fill="#ffffff"
+       fill-opacity="1"
+       stroke="#ffffff"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       transform="translate(688,269)"
+       id="g147"
+       style="fill-rule:evenodd">
+      <path
+         vector-effect="none"
+         fill-rule="evenodd"
+         d="M 4,2 H 7 L 9,4 V 7 L 7,9 H 4 L 2,7 V 4 L 4,2"
+         id="path146" />
+    </g>
+    <g
+       fill="none"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g148"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g149"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g150"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+    <g
+       fill="#000000"
+       fill-opacity="1"
+       stroke="#000000"
+       stroke-opacity="1"
+       stroke-width="1"
+       stroke-linecap="square"
+       stroke-linejoin="miter"
+       stroke-miterlimit="2"
+       id="g151"
+       transform="translate(-200,-32)"
+       style="fill-rule:evenodd" />
+  </g>
+  <g
+     transform="matrix(2.13333,0,0,2.13333,214.98591,75.4402)"
+     ns1:version="1.10.0"
+     ns1:texconverter="pdflatex"
+     ns1:pdfconverter="inkscape"
+     ns1:text="($A$)"
+     ns1:preamble="C:\Users\salvi\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns1:scale="1.6"
+     ns1:alignment="middle center"
+     ns1:stroke-to-path="0"
+     ns1:inkscapeversion="1.3.2"
+     id="g5257"
+     ns1:jacobian_sqrt="2.13333"
+     style="fill:#784421;stroke-width:0">
+    <defs
+       id="id-a0911c0d-6b4b-4aaf-97d6-a47bb28fa5c8"
+       style="fill:#784421;stroke-width:0">
+      <g
+         id="id-b2d4cee5-638c-4227-bdd4-0f8257d61bfe"
+         style="fill:#784421;stroke-width:0">
+        <g
+           id="id-ac30ad1d-458e-4994-a8c9-480a3adbfb15"
+           style="fill:#784421;stroke-width:0">
+          <path
+             d="m 3.296875,2.390625 c 0,-0.03125 0,-0.046875 -0.171875,-0.21875 C 1.890625,0.921875 1.5625,-0.96875 1.5625,-2.5 c 0,-1.734375 0.375,-3.46875 1.609375,-4.703125 0.125,-0.125 0.125,-0.140625 0.125,-0.171875 0,-0.078125 -0.03125,-0.109375 -0.09375,-0.109375 -0.109375,0 -1,0.6875 -1.59375,1.953125 -0.5,1.09375 -0.625,2.203125 -0.625,3.03125 0,0.78125 0.109375,1.984375 0.65625,3.125 C 2.25,1.84375 3.09375,2.5 3.203125,2.5 c 0.0625,0 0.09375,-0.03125 0.09375,-0.109375 z m 0,0"
+             id="id-1aca2dae-f4ae-4e50-8381-46ea402b1537"
+             style="fill:#784421;stroke-width:0" />
+        </g>
+        <g
+           id="id-5af2f5f8-776a-4743-b332-de2d06fe2fef"
+           style="fill:#784421;stroke-width:0">
+          <path
+             d="m 2.875,-2.5 c 0,-0.765625 -0.109375,-1.96875 -0.65625,-3.109375 -0.59375,-1.21875 -1.453125,-1.875 -1.546875,-1.875 -0.0625,0 -0.109375,0.046875 -0.109375,0.109375 0,0.03125 0,0.046875 0.1875,0.234375 0.984375,0.984375 1.546875,2.5625 1.546875,4.640625 0,1.71875 -0.359375,3.46875 -1.59375,4.71875 C 0.5625,2.34375 0.5625,2.359375 0.5625,2.390625 0.5625,2.453125 0.609375,2.5 0.671875,2.5 0.765625,2.5 1.671875,1.8125 2.25,0.546875 2.765625,-0.546875 2.875,-1.65625 2.875,-2.5 Z m 0,0"
+             id="id-ef8df763-7214-4824-9761-8eff903a10b4"
+             style="fill:#784421;stroke-width:0" />
+        </g>
+        <g
+           id="id-716f3ccb-266f-41c0-8728-3bc00a321f45"
+           style="fill:#784421;stroke-width:0">
+          <path
+             d="M 1.78125,-1.140625 C 1.390625,-0.484375 1,-0.34375 0.5625,-0.3125 0.4375,-0.296875 0.34375,-0.296875 0.34375,-0.109375 0.34375,-0.046875 0.40625,0 0.484375,0 0.75,0 1.0625,-0.03125 1.328125,-0.03125 c 0.34375,0 0.6875,0.03125 1,0.03125 0.0625,0 0.1875,0 0.1875,-0.1875 0,-0.109375 -0.078125,-0.125 -0.15625,-0.125 -0.21875,-0.015625 -0.46875,-0.09375 -0.46875,-0.34375 0,-0.125 0.0625,-0.234375 0.140625,-0.375 l 0.765625,-1.265625 h 2.5 c 0.015625,0.203125 0.15625,1.5625 0.15625,1.65625 0,0.296875 -0.515625,0.328125 -0.71875,0.328125 C 4.59375,-0.3125 4.5,-0.3125 4.5,-0.109375 4.5,0 4.609375,0 4.640625,0 5.046875,0 5.46875,-0.03125 5.875,-0.03125 6.125,-0.03125 6.765625,0 7.015625,0 7.0625,0 7.1875,0 7.1875,-0.203125 7.1875,-0.3125 7.09375,-0.3125 6.953125,-0.3125 6.34375,-0.3125 6.34375,-0.375 6.3125,-0.671875 l -0.609375,-6.21875 c -0.015625,-0.203125 -0.015625,-0.25 -0.1875,-0.25 -0.15625,0 -0.203125,0.078125 -0.265625,0.171875 z M 2.984375,-2.609375 4.9375,-5.90625 5.265625,-2.609375 Z m 0,0"
+             id="id-1eed2352-1fd2-45e9-a228-e30a88ab0ce8"
+             style="fill:#784421;stroke-width:0" />
+        </g>
+      </g>
+    </defs>
+    <g
+       fill-opacity="1"
+       id="id-07e078ce-a8a5-428a-961b-dc81ca73c114"
+       transform="translate(-149.696,-127.281)"
+       style="fill:#784421;stroke-width:0">
+      <g
+         transform="translate(148.712,134.765)"
+         id="g3833"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 3.296875,2.390625 c 0,-0.03125 0,-0.046875 -0.171875,-0.21875 C 1.890625,0.921875 1.5625,-0.96875 1.5625,-2.5 c 0,-1.734375 0.375,-3.46875 1.609375,-4.703125 0.125,-0.125 0.125,-0.140625 0.125,-0.171875 0,-0.078125 -0.03125,-0.109375 -0.09375,-0.109375 -0.109375,0 -1,0.6875 -1.59375,1.953125 -0.5,1.09375 -0.625,2.203125 -0.625,3.03125 0,0.78125 0.109375,1.984375 0.65625,3.125 C 2.25,1.84375 3.09375,2.5 3.203125,2.5 c 0.0625,0 0.09375,-0.03125 0.09375,-0.109375 z m 0,0"
+           id="id-c76cec2d-40cb-4ca6-b4b8-e18da498b46f"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+    <g
+       fill-opacity="1"
+       id="id-ebf9ea4b-132c-4674-971a-88fecccb74c0"
+       transform="translate(-149.696,-127.281)"
+       style="fill:#784421;stroke-width:0">
+      <g
+         transform="translate(152.587,134.765)"
+         id="g9308"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="M 1.78125,-1.140625 C 1.390625,-0.484375 1,-0.34375 0.5625,-0.3125 0.4375,-0.296875 0.34375,-0.296875 0.34375,-0.109375 0.34375,-0.046875 0.40625,0 0.484375,0 0.75,0 1.0625,-0.03125 1.328125,-0.03125 c 0.34375,0 0.6875,0.03125 1,0.03125 0.0625,0 0.1875,0 0.1875,-0.1875 0,-0.109375 -0.078125,-0.125 -0.15625,-0.125 -0.21875,-0.015625 -0.46875,-0.09375 -0.46875,-0.34375 0,-0.125 0.0625,-0.234375 0.140625,-0.375 l 0.765625,-1.265625 h 2.5 c 0.015625,0.203125 0.15625,1.5625 0.15625,1.65625 0,0.296875 -0.515625,0.328125 -0.71875,0.328125 C 4.59375,-0.3125 4.5,-0.3125 4.5,-0.109375 4.5,0 4.609375,0 4.640625,0 5.046875,0 5.46875,-0.03125 5.875,-0.03125 6.125,-0.03125 6.765625,0 7.015625,0 7.0625,0 7.1875,0 7.1875,-0.203125 7.1875,-0.3125 7.09375,-0.3125 6.953125,-0.3125 6.34375,-0.3125 6.34375,-0.375 6.3125,-0.671875 l -0.609375,-6.21875 c -0.015625,-0.203125 -0.015625,-0.25 -0.1875,-0.25 -0.15625,0 -0.203125,0.078125 -0.265625,0.171875 z M 2.984375,-2.609375 4.9375,-5.90625 5.265625,-2.609375 Z m 0,0"
+           id="id-6e193bc6-a207-4f71-9328-fac1e063a398"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+    <g
+       fill-opacity="1"
+       id="id-1f64a7f8-321e-44fa-a00a-2c6482e11cf6"
+       transform="translate(-149.696,-127.281)"
+       style="fill:#784421;stroke-width:0">
+      <g
+         transform="translate(160.059,134.765)"
+         id="g6824"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 2.875,-2.5 c 0,-0.765625 -0.109375,-1.96875 -0.65625,-3.109375 -0.59375,-1.21875 -1.453125,-1.875 -1.546875,-1.875 -0.0625,0 -0.109375,0.046875 -0.109375,0.109375 0,0.03125 0,0.046875 0.1875,0.234375 0.984375,0.984375 1.546875,2.5625 1.546875,4.640625 0,1.71875 -0.359375,3.46875 -1.59375,4.71875 C 0.5625,2.34375 0.5625,2.359375 0.5625,2.390625 0.5625,2.453125 0.609375,2.5 0.671875,2.5 0.765625,2.5 1.671875,1.8125 2.25,0.546875 2.765625,-0.546875 2.875,-1.65625 2.875,-2.5 Z m 0,0"
+           id="id-d238bd05-85d6-4e3f-9e08-dbe26969ca90"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(2.13333,0,0,2.13333,600.12143,244.54895)"
+     ns1:version="1.10.0"
+     ns1:texconverter="pdflatex"
+     ns1:pdfconverter="inkscape"
+     ns1:text="($D$)"
+     ns1:preamble="C:\Users\salvi\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns1:scale="1.6"
+     ns1:alignment="middle center"
+     ns1:stroke-to-path="0"
+     ns1:inkscapeversion="1.3.2"
+     id="g5257-1"
+     ns1:jacobian_sqrt="2.13333"
+     style="fill:#784421;stroke-width:0">
+    <defs
+       id="id-bfde479b-e2c8-458d-b152-d14856ae55a8"
+       style="fill:#784421;stroke-width:0">
+      <g
+         id="id-2577cf45-bb4f-4946-af0d-bf00494d7699"
+         style="fill:#784421;stroke-width:0">
+        <g
+           id="id-a71db42b-75dc-4770-8acc-74889b41e6d3"
+           style="fill:#784421;stroke-width:0">
+          <path
+             d="m 3.296875,2.390625 c 0,-0.03125 0,-0.046875 -0.171875,-0.21875 C 1.890625,0.921875 1.5625,-0.96875 1.5625,-2.5 c 0,-1.734375 0.375,-3.46875 1.609375,-4.703125 0.125,-0.125 0.125,-0.140625 0.125,-0.171875 0,-0.078125 -0.03125,-0.109375 -0.09375,-0.109375 -0.109375,0 -1,0.6875 -1.59375,1.953125 -0.5,1.09375 -0.625,2.203125 -0.625,3.03125 0,0.78125 0.109375,1.984375 0.65625,3.125 C 2.25,1.84375 3.09375,2.5 3.203125,2.5 c 0.0625,0 0.09375,-0.03125 0.09375,-0.109375 z m 0,0"
+             id="id-5343c167-b61e-488f-aa4d-6707aa3d7559"
+             style="fill:#784421;stroke-width:0" />
+        </g>
+        <g
+           id="id-1463e584-29a9-4933-a03f-e30b606b2953"
+           style="fill:#784421;stroke-width:0">
+          <path
+             d="m 2.875,-2.5 c 0,-0.765625 -0.109375,-1.96875 -0.65625,-3.109375 -0.59375,-1.21875 -1.453125,-1.875 -1.546875,-1.875 -0.0625,0 -0.109375,0.046875 -0.109375,0.109375 0,0.03125 0,0.046875 0.1875,0.234375 0.984375,0.984375 1.546875,2.5625 1.546875,4.640625 0,1.71875 -0.359375,3.46875 -1.59375,4.71875 C 0.5625,2.34375 0.5625,2.359375 0.5625,2.390625 0.5625,2.453125 0.609375,2.5 0.671875,2.5 0.765625,2.5 1.671875,1.8125 2.25,0.546875 2.765625,-0.546875 2.875,-1.65625 2.875,-2.5 Z m 0,0"
+             id="id-100a4816-51b6-4165-a9c7-1a377a72bf9d"
+             style="fill:#784421;stroke-width:0" />
+        </g>
+        <g
+           id="id-55833b58-7140-4e4f-a82b-ae9d0ac9e18e"
+           style="fill:#784421;stroke-width:0">
+          <path
+             d="m 1.578125,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.15625,0 -0.265625,0 -0.265625,0.1875 C 0.40625,0 0.484375,0 0.671875,0 h 3.3125 c 2.0625,0 4.03125,-2.109375 4.03125,-4.28125 0,-1.40625 -0.84375,-2.53125 -2.34375,-2.53125 h -3.34375 c -0.1875,0 -0.296875,0 -0.296875,0.1875 0,0.125 0.078125,0.125 0.28125,0.125 0.125,0 0.3125,0.015625 0.421875,0.015625 0.171875,0.03125 0.21875,0.046875 0.21875,0.171875 0,0.03125 0,0.0625 -0.03125,0.1875 z M 3.734375,-6.125 C 3.828125,-6.46875 3.84375,-6.5 4.28125,-6.5 h 1.0625 c 0.96875,0 1.796875,0.53125 1.796875,1.84375 0,0.484375 -0.1875,2.125 -1.046875,3.21875 -0.28125,0.375 -1.0625,1.125 -2.296875,1.125 h -1.125 c -0.140625,0 -0.15625,0 -0.21875,0 -0.09375,-0.015625 -0.125,-0.03125 -0.125,-0.109375 0,-0.03125 0,-0.046875 0.046875,-0.21875 z m 0,0"
+             id="id-2aebb0fe-136f-414b-8e77-e37063a88f74"
+             style="fill:#784421;stroke-width:0" />
+        </g>
+      </g>
+    </defs>
+    <g
+       fill-opacity="1"
+       id="id-e21752e2-2c7a-492d-8f7b-e88397988183"
+       transform="translate(-149.696,-127.281)"
+       style="fill:#784421;stroke-width:0">
+      <g
+         transform="translate(148.712,134.765)"
+         id="g5692"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 3.296875,2.390625 c 0,-0.03125 0,-0.046875 -0.171875,-0.21875 C 1.890625,0.921875 1.5625,-0.96875 1.5625,-2.5 c 0,-1.734375 0.375,-3.46875 1.609375,-4.703125 0.125,-0.125 0.125,-0.140625 0.125,-0.171875 0,-0.078125 -0.03125,-0.109375 -0.09375,-0.109375 -0.109375,0 -1,0.6875 -1.59375,1.953125 -0.5,1.09375 -0.625,2.203125 -0.625,3.03125 0,0.78125 0.109375,1.984375 0.65625,3.125 C 2.25,1.84375 3.09375,2.5 3.203125,2.5 c 0.0625,0 0.09375,-0.03125 0.09375,-0.109375 z m 0,0"
+           id="id-68d8e015-e906-4d35-87fc-6803d65bcd13"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+    <g
+       fill-opacity="1"
+       id="id-ace9b9df-8740-4b36-836c-55cf21169b67"
+       transform="translate(-149.696,-127.281)"
+       style="fill:#784421;stroke-width:0">
+      <g
+         transform="translate(152.587,134.765)"
+         id="g1048"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 1.578125,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.15625,0 -0.265625,0 -0.265625,0.1875 C 0.40625,0 0.484375,0 0.671875,0 h 3.3125 c 2.0625,0 4.03125,-2.109375 4.03125,-4.28125 0,-1.40625 -0.84375,-2.53125 -2.34375,-2.53125 h -3.34375 c -0.1875,0 -0.296875,0 -0.296875,0.1875 0,0.125 0.078125,0.125 0.28125,0.125 0.125,0 0.3125,0.015625 0.421875,0.015625 0.171875,0.03125 0.21875,0.046875 0.21875,0.171875 0,0.03125 0,0.0625 -0.03125,0.1875 z M 3.734375,-6.125 C 3.828125,-6.46875 3.84375,-6.5 4.28125,-6.5 h 1.0625 c 0.96875,0 1.796875,0.53125 1.796875,1.84375 0,0.484375 -0.1875,2.125 -1.046875,3.21875 -0.28125,0.375 -1.0625,1.125 -2.296875,1.125 h -1.125 c -0.140625,0 -0.15625,0 -0.21875,0 -0.09375,-0.015625 -0.125,-0.03125 -0.125,-0.109375 0,-0.03125 0,-0.046875 0.046875,-0.21875 z m 0,0"
+           id="id-25f4407b-ab21-4d44-8155-7b80ea083b04"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+    <g
+       fill-opacity="1"
+       id="id-ad90ee2c-0da2-4185-a247-dbd1126b3d42"
+       transform="translate(-149.696,-127.281)"
+       style="fill:#784421;stroke-width:0">
+      <g
+         transform="translate(161.112,134.765)"
+         id="g3844"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 2.875,-2.5 c 0,-0.765625 -0.109375,-1.96875 -0.65625,-3.109375 -0.59375,-1.21875 -1.453125,-1.875 -1.546875,-1.875 -0.0625,0 -0.109375,0.046875 -0.109375,0.109375 0,0.03125 0,0.046875 0.1875,0.234375 0.984375,0.984375 1.546875,2.5625 1.546875,4.640625 0,1.71875 -0.359375,3.46875 -1.59375,4.71875 C 0.5625,2.34375 0.5625,2.359375 0.5625,2.390625 0.5625,2.453125 0.609375,2.5 0.671875,2.5 0.765625,2.5 1.671875,1.8125 2.25,0.546875 2.765625,-0.546875 2.875,-1.65625 2.875,-2.5 Z m 0,0"
+           id="id-019a1df4-281a-4c4b-bedc-666fc11c96b9"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(2.13333,0,0,2.13333,338.46195,158.896)"
+     ns1:version="1.10.0"
+     ns1:texconverter="pdflatex"
+     ns1:pdfconverter="inkscape"
+     ns1:text="($K$)"
+     ns1:preamble="C:\Users\salvi\AppData\Roaming\inkscape\extensions\textext\default_packages.tex"
+     ns1:scale="1.6"
+     ns1:alignment="middle center"
+     ns1:stroke-to-path="0"
+     ns1:inkscapeversion="1.3.2"
+     id="g5257-5"
+     ns1:jacobian_sqrt="2.13333"
+     style="fill:#784421;stroke-width:0">
+    <defs
+       id="id-ff6e9985-b5f0-4bc7-9482-40c3fe281011"
+       style="fill:#784421;stroke-width:0">
+      <g
+         id="id-0ea1e207-6e0c-446d-81a9-6d342412efe2"
+         style="fill:#784421;stroke-width:0">
+        <g
+           id="id-3981dab1-e3fc-43f7-9280-2bf4059f563c"
+           style="fill:#784421;stroke-width:0">
+          <path
+             d="m 3.296875,2.390625 c 0,-0.03125 0,-0.046875 -0.171875,-0.21875 C 1.890625,0.921875 1.5625,-0.96875 1.5625,-2.5 c 0,-1.734375 0.375,-3.46875 1.609375,-4.703125 0.125,-0.125 0.125,-0.140625 0.125,-0.171875 0,-0.078125 -0.03125,-0.109375 -0.09375,-0.109375 -0.109375,0 -1,0.6875 -1.59375,1.953125 -0.5,1.09375 -0.625,2.203125 -0.625,3.03125 0,0.78125 0.109375,1.984375 0.65625,3.125 C 2.25,1.84375 3.09375,2.5 3.203125,2.5 c 0.0625,0 0.09375,-0.03125 0.09375,-0.109375 z m 0,0"
+             id="id-722ab02b-5bbb-49b4-8272-612baa233460"
+             style="fill:#784421;stroke-width:0" />
+        </g>
+        <g
+           id="id-e80121a6-9513-499f-a57c-dcff1683f185"
+           style="fill:#784421;stroke-width:0">
+          <path
+             d="m 2.875,-2.5 c 0,-0.765625 -0.109375,-1.96875 -0.65625,-3.109375 -0.59375,-1.21875 -1.453125,-1.875 -1.546875,-1.875 -0.0625,0 -0.109375,0.046875 -0.109375,0.109375 0,0.03125 0,0.046875 0.1875,0.234375 0.984375,0.984375 1.546875,2.5625 1.546875,4.640625 0,1.71875 -0.359375,3.46875 -1.59375,4.71875 C 0.5625,2.34375 0.5625,2.359375 0.5625,2.390625 0.5625,2.453125 0.609375,2.5 0.671875,2.5 0.765625,2.5 1.671875,1.8125 2.25,0.546875 2.765625,-0.546875 2.875,-1.65625 2.875,-2.5 Z m 0,0"
+             id="id-03df74de-8756-4ce6-b0bb-aa2149b39fde"
+             style="fill:#784421;stroke-width:0" />
+        </g>
+        <g
+           id="id-7bde7e45-7621-4056-beff-08a55ef5fa99"
+           style="fill:#784421;stroke-width:0">
+          <path
+             d="M 5.078125,-4.03125 C 5.0625,-4.0625 5.03125,-4.140625 5.03125,-4.171875 c 0,0 0.171875,-0.140625 0.28125,-0.21875 l 1.75,-1.34375 C 8,-6.4375 8.390625,-6.46875 8.6875,-6.5 8.765625,-6.515625 8.859375,-6.515625 8.859375,-6.703125 8.859375,-6.734375 8.828125,-6.8125 8.75,-6.8125 c -0.21875,0 -0.46875,0.03125 -0.703125,0.03125 -0.359375,0 -0.75,-0.03125 -1.109375,-0.03125 -0.0625,0 -0.1875,0 -0.1875,0.203125 0,0.0625 0.046875,0.09375 0.125,0.109375 0.21875,0.015625 0.296875,0.0625 0.296875,0.203125 0,0.1875 -0.296875,0.421875 -0.359375,0.46875 L 2.9375,-2.84375 3.734375,-6.046875 C 3.8125,-6.40625 3.84375,-6.5 4.5625,-6.5 c 0.25,0 0.34375,0 0.34375,-0.203125 0,-0.078125 -0.078125,-0.109375 -0.140625,-0.109375 -0.28125,0 -1,0.03125 -1.28125,0.03125 C 3.203125,-6.78125 2.5,-6.8125 2.203125,-6.8125 2.140625,-6.8125 2,-6.8125 2,-6.625 2,-6.5 2.09375,-6.5 2.296875,-6.5 c 0.125,0 0.3125,0.015625 0.421875,0.015625 0.15625,0.03125 0.21875,0.046875 0.21875,0.171875 0,0.03125 0,0.0625 -0.03125,0.1875 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.515625,-0.03125 1.796875,-0.03125 2,-0.03125 2.21875,-0.015625 2.4375,-0.015625 2.65625,-0.015625 2.875,0 3.078125,0 3.15625,0 3.28125,0 3.28125,-0.203125 3.28125,-0.3125 3.1875,-0.3125 3,-0.3125 c -0.375,0 -0.640625,0 -0.640625,-0.171875 0,-0.078125 0.046875,-0.296875 0.078125,-0.4375 C 2.578125,-1.453125 2.71875,-1.96875 2.84375,-2.5 l 1.484375,-1.15625 1.15625,2.6875 c 0.125,0.265625 0.125,0.296875 0.125,0.34375 0,0.3125 -0.4375,0.3125 -0.53125,0.3125 -0.109375,0 -0.21875,0 -0.21875,0.203125 C 4.859375,0 4.984375,0 5,0 5.40625,0 5.828125,-0.03125 6.21875,-0.03125 6.4375,-0.03125 6.984375,0 7.203125,0 7.25,0 7.375,0 7.375,-0.203125 7.375,-0.3125 7.265625,-0.3125 7.171875,-0.3125 c -0.40625,0 -0.53125,-0.09375 -0.6875,-0.4375 z m 0,0"
+             id="id-e1f7da8f-fbd7-464e-a054-4ea5c908c092"
+             style="fill:#784421;stroke-width:0" />
+        </g>
+      </g>
+    </defs>
+    <g
+       fill-opacity="1"
+       id="id-9e4c41a4-af80-4c22-9479-2fc09a7fd579"
+       transform="translate(-149.696,-127.281)"
+       style="fill:#784421;stroke-width:0">
+      <g
+         transform="translate(148.712,134.765)"
+         id="g7579"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 3.296875,2.390625 c 0,-0.03125 0,-0.046875 -0.171875,-0.21875 C 1.890625,0.921875 1.5625,-0.96875 1.5625,-2.5 c 0,-1.734375 0.375,-3.46875 1.609375,-4.703125 0.125,-0.125 0.125,-0.140625 0.125,-0.171875 0,-0.078125 -0.03125,-0.109375 -0.09375,-0.109375 -0.109375,0 -1,0.6875 -1.59375,1.953125 -0.5,1.09375 -0.625,2.203125 -0.625,3.03125 0,0.78125 0.109375,1.984375 0.65625,3.125 C 2.25,1.84375 3.09375,2.5 3.203125,2.5 c 0.0625,0 0.09375,-0.03125 0.09375,-0.109375 z m 0,0"
+           id="id-2e7a2dc6-14be-42d3-b3ec-49da109cbbca"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+    <g
+       fill-opacity="1"
+       id="id-582b8aab-6f5d-4338-a8a9-67e661cc96ea"
+       transform="translate(-149.696,-127.281)"
+       style="fill:#784421;stroke-width:0">
+      <g
+         transform="translate(152.587,134.765)"
+         id="g6296"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="M 5.078125,-4.03125 C 5.0625,-4.0625 5.03125,-4.140625 5.03125,-4.171875 c 0,0 0.171875,-0.140625 0.28125,-0.21875 l 1.75,-1.34375 C 8,-6.4375 8.390625,-6.46875 8.6875,-6.5 8.765625,-6.515625 8.859375,-6.515625 8.859375,-6.703125 8.859375,-6.734375 8.828125,-6.8125 8.75,-6.8125 c -0.21875,0 -0.46875,0.03125 -0.703125,0.03125 -0.359375,0 -0.75,-0.03125 -1.109375,-0.03125 -0.0625,0 -0.1875,0 -0.1875,0.203125 0,0.0625 0.046875,0.09375 0.125,0.109375 0.21875,0.015625 0.296875,0.0625 0.296875,0.203125 0,0.1875 -0.296875,0.421875 -0.359375,0.46875 L 2.9375,-2.84375 3.734375,-6.046875 C 3.8125,-6.40625 3.84375,-6.5 4.5625,-6.5 c 0.25,0 0.34375,0 0.34375,-0.203125 0,-0.078125 -0.078125,-0.109375 -0.140625,-0.109375 -0.28125,0 -1,0.03125 -1.28125,0.03125 C 3.203125,-6.78125 2.5,-6.8125 2.203125,-6.8125 2.140625,-6.8125 2,-6.8125 2,-6.625 2,-6.5 2.09375,-6.5 2.296875,-6.5 c 0.125,0 0.3125,0.015625 0.421875,0.015625 0.15625,0.03125 0.21875,0.046875 0.21875,0.171875 0,0.03125 0,0.0625 -0.03125,0.1875 L 1.5625,-0.78125 c -0.09375,0.390625 -0.109375,0.46875 -0.90625,0.46875 -0.171875,0 -0.28125,0 -0.28125,0.1875 C 0.375,0 0.5,0 0.53125,0 0.8125,0 1.515625,-0.03125 1.796875,-0.03125 2,-0.03125 2.21875,-0.015625 2.4375,-0.015625 2.65625,-0.015625 2.875,0 3.078125,0 3.15625,0 3.28125,0 3.28125,-0.203125 3.28125,-0.3125 3.1875,-0.3125 3,-0.3125 c -0.375,0 -0.640625,0 -0.640625,-0.171875 0,-0.078125 0.046875,-0.296875 0.078125,-0.4375 C 2.578125,-1.453125 2.71875,-1.96875 2.84375,-2.5 l 1.484375,-1.15625 1.15625,2.6875 c 0.125,0.265625 0.125,0.296875 0.125,0.34375 0,0.3125 -0.4375,0.3125 -0.53125,0.3125 -0.109375,0 -0.21875,0 -0.21875,0.203125 C 4.859375,0 4.984375,0 5,0 5.40625,0 5.828125,-0.03125 6.21875,-0.03125 6.4375,-0.03125 6.984375,0 7.203125,0 7.25,0 7.375,0 7.375,-0.203125 7.375,-0.3125 7.265625,-0.3125 7.171875,-0.3125 c -0.40625,0 -0.53125,-0.09375 -0.6875,-0.4375 z m 0,0"
+           id="id-d0ee16c9-2516-47ae-a301-17c513f174c1"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+    <g
+       fill-opacity="1"
+       id="id-0dcbd276-e195-4edb-a3c1-eb8139e8d09f"
+       transform="translate(-149.696,-127.281)"
+       style="fill:#784421;stroke-width:0">
+      <g
+         transform="translate(161.761,134.765)"
+         id="g9381"
+         style="fill:#784421;stroke-width:0">
+        <path
+           d="m 2.875,-2.5 c 0,-0.765625 -0.109375,-1.96875 -0.65625,-3.109375 -0.59375,-1.21875 -1.453125,-1.875 -1.546875,-1.875 -0.0625,0 -0.109375,0.046875 -0.109375,0.109375 0,0.03125 0,0.046875 0.1875,0.234375 0.984375,0.984375 1.546875,2.5625 1.546875,4.640625 0,1.71875 -0.359375,3.46875 -1.59375,4.71875 C 0.5625,2.34375 0.5625,2.359375 0.5625,2.390625 0.5625,2.453125 0.609375,2.5 0.671875,2.5 0.765625,2.5 1.671875,1.8125 2.25,0.546875 2.765625,-0.546875 2.875,-1.65625 2.875,-2.5 Z m 0,0"
+           id="id-ab93ccd2-8282-46a5-9239-98fcaee08694"
+           style="fill:#784421;stroke-width:0" />
+      </g>
+    </g>
+  </g>
+</svg>

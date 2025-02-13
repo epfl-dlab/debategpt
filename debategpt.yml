@@ -1,0 +1,8 @@
+name: debategpt
+channels:
+  - defaults
+  - r
+dependencies:
+  - python==3.10.13
+  - ipykernel
+prefix: /scratch/salvi/miniconda3/envs/debategpt

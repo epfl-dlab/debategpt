@@ -1,0 +1,9 @@
+name = "debategpt"
+
+[tajriba.auth]
+srtoken = "iWHGzvMWkhogPCHP"
+
+[[tajriba.auth.users]]
+name = "Admin"
+username = "admin"
+password = "rrEZMjcJ"

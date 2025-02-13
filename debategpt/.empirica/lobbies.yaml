@@ -1,0 +1,5 @@
+lobbies:
+  - name: Default shared fail
+    kind: shared
+    duration: 30m0s
+    strategy: fail

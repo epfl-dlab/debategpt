@@ -1,0 +1,3 @@
+[submodule "scripts/modules/tendimensions"]
+	path = scripts/modules/tendimensions
+	url = https://github.com/frasalvi/tendimensions
