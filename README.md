@@ -2,9 +2,9 @@
 [![MIT License](https://img.shields.io/github/license/m43/focal-loss-against-heuristics)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2403.14380-b31b1b.svg)](https://arxiv.org/abs/2403.14380)
 
-# DebateGPT - On the Conversational Persuasiveness of Large Language Models
+# DebateGPT
 
-This repo contains the code for the paper [On the Conversational Persuasiveness of Large Language Models](https://arxiv.org/abs/2403.14380).
+This repo contains the code for the paper [On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial](https://arxiv.org/abs/2403.14380).
 
 ## Citation
 
