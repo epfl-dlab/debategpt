@@ -1,23 +1,23 @@
 [![Python 3.10](https://img.shields.io/badge/python-3.10-blue.svg)](https://www.python.org/downloads/release/python-310/)
 [![MIT License](https://img.shields.io/github/license/m43/focal-loss-against-heuristics)](LICENSE)
-[![arXiv](https://img.shields.io/badge/arXiv-2403.14380-b31b1b.svg)](https://arxiv.org/abs/2403.14380)
+[![DOI](https://img.shields.io/badge/doi-10.1038/s41562--025--02194--6-b31b1b)](https://www.nature.com/articles/s41562-025-02194-6)
 
 # DebateGPT
 
-This repo contains the code for the paper [On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial](https://arxiv.org/abs/2403.14380).
+This repo contains the code for the paper [On the Conversational Persuasiveness of GPT-4](https://www.nature.com/articles/s41562-025-02194-6), published in *Nature Human Behaviour*. The data is accessible at https://huggingface.co/datasets/frasalvi/debategpt.
 
 ## Citation
 
 Please cite our work as: 
 ```bibtex
-@misc{salvi2024conversationalpersuasivenesslargelanguage,
-      title={On the Conversational Persuasiveness of Large Language Models: A Randomized Controlled Trial}, 
-      author={Francesco Salvi and Manoel Horta Ribeiro and Riccardo Gallotti and Robert West},
-      year={2024},
-      eprint={2403.14380},
-      archivePrefix={arXiv},
-      primaryClass={cs.CY},
-      url={https://arxiv.org/abs/2403.14380}, 
+@article{salvi2025conversationalpersuasiveness,
+  title = {On the conversational persuasiveness of GPT-4},
+  DOI = {10.1038/s41562-025-02194-6},
+  journal = {Nature Human Behaviour},
+  publisher = {Springer Science and Business Media LLC},
+  author = {Salvi, Francesco and Horta Ribeiro, Manoel and Gallotti, Riccardo and West, Robert},
+  year = {2025},
+  month = may 
 }
 ```
 
