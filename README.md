@@ -10,14 +10,18 @@ This repo contains the code for the paper [On the Conversational Persuasiveness 
 
 Please cite our work as: 
 ```bibtex
-@article{salvi2025conversationalpersuasiveness,
+@article{Salvi2025,
   title = {On the conversational persuasiveness of GPT-4},
+  volume = {9},
+  ISSN = {2397-3374},
   DOI = {10.1038/s41562-025-02194-6},
+  number = {8},
   journal = {Nature Human Behaviour},
   publisher = {Springer Science and Business Media LLC},
-  author = {Salvi, Francesco and Horta Ribeiro, Manoel and Gallotti, Riccardo and West, Robert},
+  author = {Salvi,  Francesco and Horta Ribeiro,  Manoel and Gallotti,  Riccardo and West,  Robert},
   year = {2025},
-  month = may 
+  month = may,
+  pages = {1645–1653}
 }
 ```
 
